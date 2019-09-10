@@ -1,4 +1,4 @@
 package codewars.actual;
 
-public class Agre {
+public class AlphabetWars {
 }
